@@ -1,4 +1,4 @@
-Here are two highlighted programs from my Summer Research Project held in the Faculty of Mathematics at Cambridge. Some notes/descriptors
+Here are two highlighted programs from my Summer Research Project held in the Faculty of Mathematics at Cambridge.
 
 ## "timeSeriesHeatMap.py"
  - The file named "timeSeriesHeatMap.py" may require the installation of a few (common) packages, which may be installed using pip. These include pygame, requests and imageio.

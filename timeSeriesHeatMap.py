@@ -4,7 +4,7 @@ import os
 import shutil
 import requests
 from bisect import bisect
-import imageio.v2 as iio
+import imageio as iio
 from timeit import default_timer as timer
 start = timer()
 

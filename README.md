@@ -1,5 +1,5 @@
 Here are two highlighted programs from my Summer Research Project held in the Faculty of Mathematics at Cambridge.
-The data was taken from the following website
+The data was taken from the following research paper:
  - D. A. Wagenaar, J. Pine, and S. M. Potter [2006] “An extremely rich repertoire of bursting patterns during the development of cortical cultures”
  - The data was accessed from this website: https://neurodatasharing.bme.gatech.edu/development-data/html/index.html
 
